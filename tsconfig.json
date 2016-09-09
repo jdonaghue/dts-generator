@@ -1,5 +1,5 @@
 {
-	"version": "1.8.0",
+	"version": "2.0.2",
 	"compilerOptions": {
 		"target": "es5",
 		"module": "umd",
@@ -21,7 +21,6 @@
 		"./tests/intern.ts",
 		"./tests/support/foo/Bar.ts",
 		"./tests/support/foo/index.ts",
-		"./tests/typings/dts-generator/dts-generator.d.ts",
 		"./tests/unit/all.ts",
 		"./tests/unit/bin/dts-generator.ts",
 		"./tests/unit/index.ts",
