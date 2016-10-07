@@ -1,5 +1,5 @@
 export const loaders = {
-	'host-browser': 'node_modules/dojo-loader/dist/umd/loader.js',
+	'host-browser': 'node_modules/dojo-loader/loader.js',
 	'host-node': 'dojo-loader'
 };
 
